@@ -1,10 +1,11 @@
 {   
-        "name": "action-bar",
-            "author": "Daniel Buchner",
-                "scripts":[
-                        "actionbar.js"
-                            ],
-                                "dependencies":[
-                                        "https://github.com/mozilla/web-components"
-                                            ]
+    "name": "action-bar",
+    "version": "0.0.1",
+    "author": "Daniel Buchner",
+    "scripts":[
+      "actionbar.js"
+    ],
+    "dependencies":[
+      "https://github.com/mozilla/web-components"
+    ]
 }
