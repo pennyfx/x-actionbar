@@ -6,6 +6,6 @@
       "actionbar.js"
     ],
     "dependencies":[
-      "https://github.com/mozilla/web-components"
+      "https://github.com/pennyfx/web-components.git"
     ]
 }
