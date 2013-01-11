@@ -6,6 +6,6 @@
       "actionbar.js"
     ],
     "dependencies":[
-      "git://github.com/pennyfx/web-components.git"
+      "document.register"
     ]
 }
